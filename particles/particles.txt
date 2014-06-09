@@ -1,0 +1,4 @@
+C:\Users\zs\Desktop\particles\./bin/win32/Release/particles.exe Starting...
+
+grid: 32 x 32 x 32 = 32768 cells
+particles: 3000
